@@ -1,0 +1,89 @@
+{
+	"info": {
+		"_postman_id": "e46256ff-5882-4cd5-8520-b9733f5c8b22",
+		"name": "Candidatos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25152572"
+	},
+	"item": [
+		{
+			"name": "localhost:8080/api/Candidatos/1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/Candidatos/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"Candidatos",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/api/Candidatos",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/Candidatos",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"Candidatos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/api/Candidatos/1",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/Candidatos/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"Candidatos",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/api/Candidatos/1",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/Candidatos/1",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"Candidatos",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
